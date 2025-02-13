@@ -1,4 +1,5 @@
-# RAG-based PDF Query Application
+#  📚 RAG-based PDF Query Application
+
 
 This is a Streamlit-based application that allows users to upload a PDF document and ask questions about its content. The application uses a Retrieval-Augmented Generation (RAG) approach to retrieve relevant information from the PDF and generate answers using the Groq API.
 
